@@ -35,4 +35,7 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/babaOne.unity
     guid: e0426e4feb01d28428e18392ae42fd01
+  - enabled: 1
+    path: Assets/NewScene.unity
+    guid: b4609c681699cae4abcdaae700a1cbb5
   m_configObjects: {}
